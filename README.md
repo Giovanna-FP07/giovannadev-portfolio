@@ -20,7 +20,6 @@ O projeto ainda está em fase inicial — mas já representa o **início da minh
 ---
 
 ## ⚙️ Tecnologias Utilizadas
-
 |  Tecnologia |  Descrição |
 |----------------|--------------|
 | [Next.js](https://nextjs.org/) | Framework React moderno para aplicações web |
@@ -29,31 +28,41 @@ O projeto ainda está em fase inicial — mas já representa o **início da minh
 | [Firebase Studio](https://firebase.google.com/studio) | Plataforma de geração e deploy automatizado |
 | [Vercel](https://vercel.com/) | Plataforma para deploy contínuo de projetos Next.js |
 
+
 ---
 
-## 🚀 Acesse o Projeto
+## Acesse o Projeto
 
 **Veja meu portfólio online:**  
- [https://giovannadev-portfolio.vercel.app/](https://giovannadev-portfolio.vercel.app/)
+[https://giovannadev-portfolio.vercel.app/](https://giovannadev-portfolio.vercel.app/)
 
 **Código do portfólio no GitHub:**  
- [https://github.com/Giovanna-FP07/giovannadev-portfolio](https://github.com/Giovanna-FP07/giovannadev-portfolio)
+[https://github.com/Giovanna-FP07/giovannadev-portfolio](https://github.com/Giovanna-FP07/giovannadev-portfolio)
 
 ---
 
-## 💻 Como Executar Localmente
+### Observações
 
-Se quiser rodar o projeto na sua máquina, siga os passos abaixo:
+* O código foi gerado com o auxílio do Firebase Studio e está público para fins de aprendizado e transparência.
+* Este portfólio está em constante evolução, e novas funcionalidades serão adicionadas conforme avanço na faculdade.
+* Também serve como um laboratório de design e experimentação com IA, tanto na parte visual quanto na geração do código.
 
-```bash
-# Clone o repositório
-git clone [https://github.com/Giovanna-FP07/giovannadev-portfolio.git](https://github.com/Giovanna-FP07/giovannadev-portfolio.git)
+### Próximos Passos
 
-# Entre na pasta do projeto
-cd giovannadev-portfolio
+* Adicionar projetos acadêmicos e pessoais
+* Criar seção de contato com formulário funcional
+* Adicionar animações e microinterações
+* Integrar banco de dados Firebase
+* Publicar novos experimentos e desafios
 
-# Instale as dependências
-npm install
+### 👩‍💻 Autora | **Giovanna**
+> Estudante de Tecnologia • Apaixonada por design, código e aprendizado constante
+<br/>
+<p align="center">
+  <a href="https://github.com/Giovanna-FP07"><img src="https://img.shields.io/badge/GitHub-db7093?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"></a>
+  <a href="https://www.linkedin.com/in/giovannafernandesp/"><img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+</p>
 
-# Inicie o servidor local
-npm run dev
+<p align="center">
+“Cada linha de código é um passo no meu aprendizado.” 🌸
+</p>
