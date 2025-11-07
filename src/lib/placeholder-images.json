@@ -1,0 +1,28 @@
+{
+  "placeholderImages": [
+    {
+      "id": "profile-picture-purple",
+      "description": "Profile picture for Giovanna Fernandes",
+      "imageUrl": "https://storage.googleapis.com/aif-stg-build-01-images/public/335a1f6a-6058-45a7-b088-b4b1a8d011f0.png",
+      "imageHint": "woman glasses"
+    },
+    {
+      "id": "project-ecommerce",
+      "description": "Placeholder image for a project about an equestrian fashion e-commerce",
+      "imageUrl": "https://images.unsplash.com/photo-1598974357801-654563879483?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxlcXVlc3RyaWFufGVufDB8fHx8MTc2NDUzOTQzNHww&ixlib=rb-4.0.3&q=80&w=1080",
+      "imageHint": "equestrian fashion"
+    },
+    {
+      "id": "project-collab",
+      "description": "Placeholder image for a project about a collaboration platform",
+      "imageUrl": "https://images.unsplash.com/photo-1543269865-cbf427effbad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxjb2xsYWJvcmF0aW9uJTIwdG9vbHxlbnwwfHx8fDE3NjM5ODU5NDB8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "imageHint": "collaboration tool"
+    },
+    {
+      "id": "project-recipe-app",
+      "description": "Placeholder image for a project about a recipe app",
+      "imageUrl": "https://images.unsplash.com/photo-1542010589005-d1eacc3918f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxyZWNpcGUlMjBhcHB8ZW58MHx8fHwxNzYzOTg2MDYxfDA&ixlib=rb-4.0.3&q=80&w=1080",
+      "imageHint": "recipe app"
+    }
+  ]
+}
