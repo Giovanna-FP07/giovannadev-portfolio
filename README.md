@@ -31,7 +31,7 @@ O projeto ainda está em fase inicial — mas já representa o **início da minh
 
 ---
 
-## Acesse o Projeto
+## 🔗 Acesse o Projeto
 
 **Veja meu portfólio online:**  
 [https://giovannadev-portfolio.vercel.app/](https://giovannadev-portfolio.vercel.app/)
